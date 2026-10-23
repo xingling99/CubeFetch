@@ -1,0 +1,104 @@
+{
+  "latest": {
+    "release": "26.3",
+    "snapshot": "26.4-snapshot-4"
+  },
+  "versions": [
+    {
+      "id": "26.4-snapshot-4",
+      "type": "snapshot",
+      "releaseTime": "2026-10-13T12:05:46+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/650b368231fa39ca6701be0f306ec5cc76beb8e0/26.4-snapshot-4.json"
+    },
+    {
+      "id": "26.3",
+      "type": "release",
+      "releaseTime": "2026-09-15T11:23:02+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/11f1aefe473eefba0af62e3286c33b692807b2eb/26.3.json"
+    },
+    {
+      "id": "26w14a",
+      "type": "snapshot",
+      "releaseTime": "2026-04-01T12:13:30+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/5be79b21c3ee62a74352b373a5bd34d8a3e4c77d/26w14a.json"
+    },
+    {
+      "id": "25w14craftmine",
+      "type": "snapshot",
+      "releaseTime": "2025-04-01T15:50:09+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/c1e59cc6ce14e3eb7d606b383ff589bffead4dc5/25w14craftmine.json"
+    },
+    {
+      "id": "24w14potato",
+      "type": "snapshot",
+      "releaseTime": "2024-04-01T11:07:19+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/f7c3c0ed737f52a22250363b3241cf5b86f1cab5/24w14potato.json"
+    },
+    {
+      "id": "1.20.1",
+      "type": "release",
+      "releaseTime": "2023-06-12T13:25:51+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/a5cf661d31d9dfcd3d1645be80f43954f63f63b0/1.20.1.json"
+    },
+    {
+      "id": "23w13a_or_b",
+      "type": "snapshot",
+      "releaseTime": "2023-04-01T12:52:18+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/48c2c473669e8ea3c3731561b87d1809bd974eba/23w13a_or_b.json"
+    },
+    {
+      "id": "22w13oneblockatatime",
+      "type": "snapshot",
+      "releaseTime": "2022-04-01T11:56:58+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/d70cef49b7606e8c37e49abad4ff542e2ce21d09/22w13oneblockatatime.json"
+    },
+    {
+      "id": "20w14infinite",
+      "type": "snapshot",
+      "releaseTime": "2020-04-01T12:47:08+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/73eb2a736f0a7349fb5f73e685f847826e5321fd/20w14infinite.json"
+    },
+    {
+      "id": "3D Shareware v1.34",
+      "type": "snapshot",
+      "releaseTime": "2019-04-01T11:18:08+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/5b59564acaa4cc153b6f934e566226642ed978ab/3D%20Shareware%20v1.34.json"
+    },
+    {
+      "id": "1.RV-Pre1",
+      "type": "snapshot",
+      "releaseTime": "2016-03-31T16:18:53+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/23761c1cc8b5c7c72f6604e1e7322a056a6af2f8/1.RV-Pre1.json"
+    },
+    {
+      "id": "15w14a",
+      "type": "snapshot",
+      "releaseTime": "2015-04-01T07:08:00+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/e9349d236c0f4b8760f75621b3eaad538055c759/15w14a.json"
+    },
+    {
+      "id": "1.7.10",
+      "type": "release",
+      "releaseTime": "2014-05-14T17:29:23+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/ed5d8789ed29872ea2ef1c348302b0c55e3f3468/1.7.10.json"
+    },
+    {
+      "id": "1.6.4",
+      "type": "release",
+      "releaseTime": "2013-09-19T15:52:37+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/b71bae449192fbbe1582ff32fb3765edf0b9b0a8/1.6.4.json"
+    },
+    {
+      "id": "b1.7.3",
+      "type": "old_beta",
+      "releaseTime": "2011-07-07T22:00:00+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/44f6969326bd45aa00dcd3c4ca3a7c05ebb24c04/b1.7.3.json"
+    },
+    {
+      "id": "a1.0.4",
+      "type": "old_alpha",
+      "releaseTime": "2010-07-08T22:00:00+00:00",
+      "url": "https://piston-meta.mojang.com/v1/packages/16c818f17af9e8560589f9e3cae57f0931011c25/a1.0.4.json"
+    }
+  ]
+}

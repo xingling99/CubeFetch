@@ -1,0 +1,29 @@
+{
+  "objects": {
+    "READ_ME_I_AM_VERY_IMPORTANT.txt": {
+      "hash": "0d000710b71ca9aafabd8f587768431d0b560b32",
+      "size": 546
+    },
+    "icons/icon_16x16.png": {
+      "hash": "bdf48ef6b5d0d23bbb02e17d04865216179f510a",
+      "size": 3665
+    },
+    "icons/icon_32x32.png": {
+      "hash": "92750c5f93c312ba9ab413d546f32190c56d6f1f",
+      "size": 5362
+    },
+    "lang/af_ZA.lang": {
+      "hash": "a9ea89177fbf3f10e527102451eb1469671530d4",
+      "size": 69996
+    },
+    "pack.mcmeta": {
+      "hash": "dcd58a2f57954ec5208601e957f0851e617d8a90",
+      "size": 9090
+    },
+    "sound/random/click.ogg": {
+      "hash": "2fe092579d9637e2d160319820ee08e60a237bb7",
+      "size": 7046
+    }
+  },
+  "virtual": true
+}

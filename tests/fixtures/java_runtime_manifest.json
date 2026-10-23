@@ -1,0 +1,72 @@
+{
+  "files": {
+    "bin": {
+      "type": "directory"
+    },
+    "bin/java.exe": {
+      "downloads": {
+        "raw": {
+          "sha1": "306def170332841ff31dc9c3fa45480aa825d54b",
+          "size": 28,
+          "url": "https://piston-data.mojang.com/v1/objects/306def170332841ff31dc9c3fa45480aa825d54b/java.exe"
+        }
+      },
+      "executable": true,
+      "type": "file"
+    },
+    "bin/javaw.exe": {
+      "downloads": {
+        "raw": {
+          "sha1": "ddee9b789602c32301aa2ee9ecc857c1e1822025",
+          "size": 29,
+          "url": "https://piston-data.mojang.com/v1/objects/ddee9b789602c32301aa2ee9ecc857c1e1822025/javaw.exe"
+        }
+      },
+      "executable": true,
+      "type": "file"
+    },
+    "bin/legacy-link": {
+      "type": "link",
+      "target": "../javaw.exe"
+    },
+    "release": {
+      "downloads": {
+        "raw": {
+          "sha1": "aa8173d81e2eb764c52a7311f2ce4cedc2ce7dae",
+          "size": 23,
+          "url": "https://piston-data.mojang.com/v1/objects/aa8173d81e2eb764c52a7311f2ce4cedc2ce7dae/release"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "lib": {
+      "type": "directory"
+    },
+    "lib/modules": {
+      "downloads": {
+        "raw": {
+          "sha1": "541e1f017f733598c9a99113d496026d158ec8b8",
+          "size": 27,
+          "url": "https://piston-data.mojang.com/v1/objects/541e1f017f733598c9a99113d496026d158ec8b8/modules"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "conf": {
+      "type": "directory"
+    },
+    "conf/security/java.security": {
+      "downloads": {
+        "raw": {
+          "sha1": "a19bc67f0881ed291b35c390bc0217c85c9c27c6",
+          "size": 43,
+          "url": "https://piston-data.mojang.com/v1/objects/a19bc67f0881ed291b35c390bc0217c85c9c27c6/java.security"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    }
+  }
+}

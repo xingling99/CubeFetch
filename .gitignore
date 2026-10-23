@@ -1,0 +1,23 @@
+# CubeFetch 构建缓存
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+build/out/
+dist/
+*.spec
+# 运行期缓存（版本清单等）
+.cache/
+# 开发期本机截图（含本机路径/账号名，不随源码发布）
+docs/shots/
+# 本地测试数据
+tests/_data/
+*.log
+# 备份/临时文件（不允许进入仓库）
+*.bak
+*.bak.*
+*.orig
+*.old
+*.tmp
+*~
+.venv/
